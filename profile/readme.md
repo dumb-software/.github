@@ -5,3 +5,13 @@
   <br>
   <h1 align="center">"making software nobody asked"</h1>
 </p>
+
+## Projects:
+
+* [**T3C**](https://github.com/dumb-software/T3C)
+  
+ **[WIP]** *An upcoming front-end Android app utilizing Material Design for T2C.*
+
+* [**T2C Api Documentation**](https://github.com/dumb-software/T2C-API-Documentation)
+
+ **[WIP]** *An unofficial API documentation for the T2C mobile app.*
