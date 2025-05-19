@@ -12,6 +12,6 @@
   
  **[WIP]** *An upcoming front-end Android app utilizing Material Design for T2C.*
 
-* [**T2C Api Documentation**](https://github.com/dumb-software/T2C-API-Documentation)
+* [**T2C API Documentation**](https://github.com/dumb-software/T2C-API-Documentation)
 
  **[WIP]** *An unofficial API documentation for the T2C mobile app.*
