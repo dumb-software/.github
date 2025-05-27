@@ -8,7 +8,7 @@
 
 ## Projects:
 
-* [**T3C**](https://github.com/dumb-software/T3C)
+* [**Tetrac**](https://github.com/dumb-software/Tetrac)
   
  **[WIP]** *An upcoming front-end Android app utilizing Material Design for T2C.*
 
