@@ -10,7 +10,7 @@
 
 * [**Tetrac**](https://github.com/dumb-software/Tetrac)
   
- **[WIP]** *An upcomming Material Design–based Android app serving as a T2C frontend*
+ **[WIP]** *An upcomming Material Design-based Android app serving as a T2C frontend*
 
 * [**T2C API Documentation**](https://github.com/dumb-software/T2C-API-Documentation)
 
