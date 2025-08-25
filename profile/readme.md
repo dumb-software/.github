@@ -14,4 +14,4 @@
 
 * [**T2C API Documentation**](https://github.com/dumb-software/T2C-API-Documentation)
 
- **[WIP]** *An unofficial API documentation for the T2C mobile app.*
+*An unofficial API documentation for the T2C mobile app.*
