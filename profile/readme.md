@@ -17,3 +17,9 @@
 * [**T2C API Documentation**](https://github.com/dumb-software/T2C-API-Documentation)
 
   *An unofficial API documentation for the T2C mobile app.*
+
+
+<details>
+  <summary>...</summary>
+    <a href="https://github.com/user-attachments/assets/daba0915-e987-4542-bb44-bf652573e505">🍎</a>
+</details>
