@@ -10,9 +10,9 @@
 
 ## Projects
 
-* [**Tetrac**](https://github.com/dumb-software/Tetrac)
+* [**T2C-App-Patch-Morphe**](https://github.com/dumb-software/T2C-App-Patch-Morphe)
   
-  **[WIP]** *An upcoming Material Design-based Android app serving as a T2C frontend*
+  *A lightweight collection of morph patches for T2C, designed to alter, enhance, and extend functionality in a flexible and modular way.*
 
 * [**T2C API Documentation**](https://github.com/dumb-software/T2C-API-Documentation)
 
