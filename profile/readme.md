@@ -12,7 +12,7 @@
 
 * [**T2C-App-Patch-Morphe**](https://github.com/dumb-software/T2C-App-Patch-Morphe)
   
-  *A lightweight collection of morph patches for T2C, designed to alter, enhance, and extend functionality in a flexible and modular way.*
+  *A collection of Morphe patches for the T2C mobile app, designed to alter, enhance, and extend functionality in a flexible and modular way.*
 
 * [**T2C API Documentation**](https://github.com/dumb-software/T2C-API-Documentation)
 
